@@ -114,7 +114,7 @@ const Index = () => {
             <div className="hero-wrap hero-wrap2 position-relative">
               <div className="hero-content position-absolute">
                 <h3>Nova Coleção — 40% de Desconto</h3>
-                <h1>Descubra Novas  <br /> Cores E Destaque Sua Personalidade</h1>
+                <h1>Descubra Novas  <br /> Cores e Realce Seu Olhar</h1>
                 <p className='my-3'>
                   Azul, mel, cinza ou verde — escolha a cor que combina com você.
                   Lentes de alta qualidade para um olhar natural e marcante.
