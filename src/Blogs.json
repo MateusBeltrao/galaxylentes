@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "How to Write a Blog Post Your Readers Will Love in 5 Steps",
+      "image": "/images/blog-1.jpeg",
+      "categories": ["Business", "Marketing", "Social Media"],
+      "author": "Editor",
+      "date": "February 9, 2024",
+      "pere": "Why the world would end without travel coupons. The 16 worst songs about spa deals. How daily me person. The 11 worst business software in history. Why latest electronic gadgets will make you question everything. The evolution of cool science experiments. 16 facts about cool tech gadgets that'll keep you up at night. How carnival..."
+    },
+    {
+      "id": 2,
+      "title": "9 Content Marketing Trends and Ideas to Increase Traffic",
+      "image": "/images/blog-2.jpeg",
+      "categories": ["Business", "Information", "Promotions"],
+      "author": "Editor",
+      "date": "February 7, 2025",
+      "pere": "Why do people think wholesale accessories are a good idea? Unbelievable cool tech gadget success stories. How cool tech gadgets can help you predict the future. The 10 best passport application twitter feeds to follow. 9 uses for business software. The unconventional guide to wholesale accessories. How to be unpopular in the science article world..."
+    },
+    {
+      "id": 3,
+      "title": "9 Content Marketing Trends and Ideas to Increase Traffic",
+      "image": "/images/blog-3.jpeg",
+      "categories": ["Business", "Information", "Social Media"],
+      "author": "Editor",
+      "date": "February 7, 2025",
+      "pere": "Why do people think wholesale accessories are a good idea? Unbelievable cool tech gadget success stories. How cool tech gadgets can help you predict the future. The 10 best passport application twitter feeds to follow. 9 uses for business software. The unconventional guide to wholesale accessories. How to be unpopular in the science article world..."
+    },
+    {
+      "id": 4,
+      "title": "50 Best Sales Questions to Determine Your Customer's Needs",
+      "image": "/images/blog-4.jpeg",
+      "categories": ["Business", "Information", "Statistics"],
+      "author": "Editor",
+      "date": "February 5, 2025",
+      "pere": "The unconventional guide to the software applications. Why do people think business software is a good idea? Why technology tips will make you question everything. Why storage devices are afraid of the truth. What everyone is saying about best stores. The complete beginner's guide to wholesale accessories. Why your storage device never works out the.."
+    },
+    {
+      "id": 5,
+      "title": "6 Simple Ways To Boost Your Ecommerce Conversion Rate",
+      "image": "/images/blog-5.jpeg",
+      "categories": ["Business", "Information", "Social Media"],
+      "author": "Editor",
+      "date": "February 1, 2025",
+      "pere": "The best ways to utilize interview techniques. 18 things your boss expects you know about famous entrepreneurs. What the world would be like if property management companies didn't exist. Use storytelling to create an emotional connection with potential customers by showing how your product or service can fit into their lives and help them achieve..."
+    },
+    {
+      "id": 6,
+      "title": "9 Customer Experience Trends That'll Define the Next Year",
+      "image": "/images/blog-6.jpeg",
+      "categories": ["Business", "Information", " Writing"],
+      "author": "Editor",
+      "date": "January 29, 2025",
+      "pere": "The oddest place you will find financial reports. Will businesses ever rule the world That insane but true things about investors. If you reading one article about business managers read this one. And that cheat investors that scenes about business. Totally myths uncovered about businesses Franchises by the numbers. The podcasts about business reviews how..."
+    },
+    {
+      "id": 7,
+      "title": "A Step-by-Step Guide to Creating a Blog on WordPress",
+      "image": "/images/blog-7.jpeg",
+      "categories": ["Business", "Information", " Statistics"],
+      "author": "Editor",
+      "date": "January 27, 2025",
+      "pere": "Both Primary and Secondary data sources are being used while compiling the report. Writing copy that persuades consumers to give your offering a try is no easy task. Companies in saturated markets battle with competitors to earn the trust of prospects through email marketing campaigns, blog posts, social media and more. Bombarded with so many..."
+    },
+    {
+      "id": 8,
+      "title": "How to Write a Blog Post Outline: A Simple Formula to Follow",
+      "image": "/images/blog-8.jpeg",
+      "categories": ["Business", "Information", " Social Media"],
+      "author": "Editor",
+      "date": "January 25, 2025",
+      "pere": "“We must moderate costs for both employers and workers who might otherwise move elsewhere,” he said. Following two months of declining business sentiment among its members, the head of the Associated Industries of Massa chusetts predicts a grim future for the state’s employers amid a nationwide shortage of workers and rising rates of open jobs...."
+    },
+    {
+      "id": 9,
+      "title": "SEO Writing: 12 Tips on Writing Blog Posts That Rank on Google",
+      "image": "/images/blog-9.jpeg",
+      "categories": ["Business", "Information", " Writing"],
+      "author": "Editor",
+      "date": "January 23, 2025",
+      "pere": "This research report is the result of an extensive primary and secondary research effort into the Green Technology market. It provides a thorough overview of the market's current and future objectives, along with a competitive analysis of the industry, broken down by application, type and regional trends. It also provides a dashboard overview of the..."
+    },
+    {
+      "id": 10,
+      "title": "How to Create a Social Media Calendar to Plan Your Content",
+      "image": "/images/blog-10.jpeg",
+      "categories": ["Business", "Information", " Writing"],
+      "author": "Editor",
+      "date": "January 21, 2025",
+      "pere": "Despite the presence of intense competition, the global recovery trend shows clear, investors are still optimistic about this area, and it will still be more new investments entering the field in the future. With aim that clearly revealing the competitive situation for industry, we concretely analyze not only leading enterprises that have voice global scale,..."
+    }
+]

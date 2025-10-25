@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "image": "/images/product-1.jpeg",
+        "secondImage": "/images/product-2.jpeg",
+        "name": "Advi Decorative Zamioculcas Zamiifolia Plant",
+        "offerPrice": 63,
+        "price": 60
+    },
+    {
+        "id": 2,
+        "image": "/images/product-3.jpeg",
+        "secondImage": "/images/product-4.jpeg",
+        "name": "Healthy Vibe Green Zamia Zamioculas",
+        "offerPrice": 47,
+        "price": 41
+    },
+    {
+        "id": 3,
+        "image": "/images/product-5.jpeg",
+        "secondImage": "/images/product-6.jpeg",
+        "name": "Alobtt Plants Mini Potted Artificial Plants",
+        "offerPrice": 57,
+        "price": 50
+    },
+    {
+        "id": 4,
+        "image": "/images/product-7.jpeg",
+        "secondImage": "/images/product-8.jpeg",
+        "name": "Alas Large Indoor Artificial Plants Pot",
+        "offerPrice": 56,
+        "price": 49
+    },
+    {
+        "id": 5,
+        "image": "/images/product-9.jpeg",
+        "secondImage": "/images/product-10.jpeg",
+        "name": "Echeveria Succulent Schefflera Umbrella Plant",
+        "offerPrice": 70,
+        "price": 63
+    },
+    {
+        "id": 6,
+        "image": "/images/product-13.jpeg",
+        "secondImage": "/images/product-14.jpeg",
+        "name": "Bee Green Aloe Squarrosa Vera Clumb",
+        "offerPrice": 49,
+        "price": 46
+    },
+    {
+        "id": 7,
+        "image": "/images/product-15.jpeg",
+        "secondImage": "/images/product-16.jpeg",
+        "name": "Euphorbia Natural Cactus Potted Plant",
+        "offerPrice": 65,
+        "price": 43
+    },
+    {
+        "id": 8,
+        "image": "/images/product-17.jpeg",
+        "secondImage": "/images/product-18.jpeg",
+        "name": "Alocasia Natural Polly Plant In White Pot",
+        "offerPrice": 68,
+        "price": 45
+    },
+    {
+        "id": 9,
+        "image": "/images/product-19.jpeg",
+        "secondImage": "/images/product-20.jpeg",
+        "name": "Deep Jungle Wukoku Tall Fake Plants",
+        "offerPrice": 69,
+        "price": 48
+    },
+    {
+        "id": 10,
+        "image": "/images/product-21.jpeg",
+        "secondImage": "/images/product-22.jpeg",
+        "name": "ExoticRarePlants Small Jute Modern Plant",
+        "offerPrice": 75,
+        "price": 68
+    },
+    {
+        "id": 11,
+        "image": "/images/product-23.jpeg",
+        "secondImage": "/images/product-24.jpg",
+        "name": "BeCalathea Zebrina Gloria Flower Plant",
+        "offerPrice": 63,
+        "price": 53
+    },
+    {
+        "id": 12,
+        "image": "/images/product-25.jpeg",
+        "secondImage": "/images/product-26.jpeg",
+        "name": "Large Ceramic Caladium Potted Plant",
+        "offerPrice": 72,
+        "price": 56
+    },
+    {
+        "id": 13,
+        "image": "/images/product-27.jpeg",
+        "secondImage": "/images/product-28.jpeg",
+        "name": "Peace Fresh Self Watering lily Live Plant",
+        "offerPrice": 69,
+        "price": 63
+    },
+    {
+        "id": 14,
+        "image": "/images/product-29.jpeg",
+        "secondImage": "/images/product-30.jpeg",
+        "name": "Little Krimson Aspidistra Indoor Plant",
+        "offerPrice": 80,
+        "price": 72
+    },
+    {
+        "id": 15,
+        "image": "/images/product-31.jpeg",
+        "secondImage": "/images/product-32.jpeg",
+        "name": " Euphorbia Natural Cactus Potted Plant",
+        "offerPrice": 65,
+        "price": 43
+    },
+    {
+        "id": 16,
+        "image": "/images/product-5.jpeg",
+        "secondImage": "/images/product-6.jpeg",
+        "name": " Euphorbia Natural Cactus Potted Plant",
+        "offerPrice": 65,
+        "price": 43
+    }
+]
