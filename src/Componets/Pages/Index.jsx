@@ -134,15 +134,13 @@ const Index = () => {
       </div>
 
 
-
-
-      {/* Services */}
+      {/* Serviços */}
       <div className="services py-5 mt-5">
         <div className="container">
           <div className="row">
             <div className="section-title d-flex flex-column justify-content-center align-items-center">
-              <h2>What We Do</h2>
-              <h1>Our Services</h1>
+              <h2>O Que Fazemos</h2>
+              <h1>Nossos Serviços</h1>
             </div>
           </div>
           <div className="row mt-5">
@@ -150,11 +148,11 @@ const Index = () => {
             <div className="col-lg-3 col-md-6">
               <div className="service-box d-flex flex-column justify-content-center align-items-center">
                 <div className="service-img">
-                  <img src={service1} className='img-fluid' alt="" />
+                  <img src={service1} className='img-fluid' alt="Escolha sua lente" />
                 </div>
                 <div className="service-box-info text-center mt-4">
-                  <h3>Pick Your Plant</h3>
-                  <p>There are variations of passages the lorem Ipsum</p>
+                  <h3>Escolha Sua Lente</h3>
+                  <p>Selecione lentes coloridas naturais ou vibrantes para realçar seu olhar.</p>
                 </div>
               </div>
             </div>
@@ -162,11 +160,11 @@ const Index = () => {
             <div className="col-lg-3 col-md-6">
               <div className="service-box d-flex flex-column justify-content-center align-items-center">
                 <div className="service-img service-img2">
-                  <img src={service2} className='img-fluid' alt="" />
+                  <img src={service2} className='img-fluid' alt="Escolha a cor" />
                 </div>
                 <div className="service-box-info text-center mt-4">
-                  <h3>Choose A Pot Color</h3>
-                  <p>There are variations of passages the lorem Ipsum</p>
+                  <h3>Escolha a Cor</h3>
+                  <p>Opte pela cor que combina melhor com seu estilo ou ocasião.</p>
                 </div>
               </div>
             </div>
@@ -174,11 +172,11 @@ const Index = () => {
             <div className="col-lg-3 col-md-6">
               <div className="service-box d-flex flex-column justify-content-center align-items-center">
                 <div className="service-img service-img3">
-                  <img src={service3} className='img-fluid' alt="" />
+                  <img src={service3} className='img-fluid' alt="Receba em casa" />
                 </div>
                 <div className="service-box-info text-center mt-4">
-                  <h3>Have It Shipped</h3>
-                  <p>There are variations of passages the lorem Ipsum</p>
+                  <h3>Entrega Rápida</h3>
+                  <p>Receba suas lentes diretamente na sua casa com segurança e rapidez.</p>
                 </div>
               </div>
             </div>
@@ -186,17 +184,21 @@ const Index = () => {
             <div className="col-lg-3 col-md-6">
               <div className="service-box d-flex flex-column justify-content-center align-items-center">
                 <div className="service-img service-img4">
-                  <img src={service4} className='img-fluid' alt="" />
+                  <img src={service4} className='img-fluid' alt="Cuidados e uso" />
                 </div>
                 <div className="service-box-info text-center mt-4">
-                  <h3>Watch It Grow</h3>
-                  <p>There are variations of passages the lorem Ipsum</p>
+                  <h3>Cuidados e Uso</h3>
+                  <p>Dicas e orientações para usar suas lentes de contato com conforto e segurança.</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
+
+
+
+
 
       {/* banners */}
       <div className="banners py-5">
